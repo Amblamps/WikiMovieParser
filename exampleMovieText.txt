@@ -1,0 +1,36 @@
+| name = Army of Darkness
+| image = Army of Darkness poster.jpg
+| alt = 
+| caption = Theatrical release poster
+| director = [[Sam Raimi]]
+| producer = [[Robert Tapert]]
+| writer = {{Plainlist|
+* Sam Raimi
+* [[Ivan Raimi]]
+}}
+| starring = {{Plainlist|
+* [[Bruce Campbell]]
+* [[Embeth Davidtz]]
+}}
+| music = {{Plainlist|
+* [[Joseph LoDuca]]
+* [[Danny Elfman]] {{small|(themes)}}
+}}
+| cinematography = [[Bill Pope]]
+| editing = {{Plainlist|
+* [[Bob Murawski]]
+* [[Sam Raimi|R.O.C. Sandstorm]]
+}}
+| production companies = {{Plainlist|
+* [[Dino De Laurentiis|Dino De Laurentiis Communications]]
+* [[Renaissance Pictures]]
+}}
+| distributor = [[Universal Studios|Universal Pictures]]
+| released = {{Film date|1992|10|09|world premiere|1993|02|19|United States}}
+| runtime = 81 minutes&lt;br&gt;&lt;small&gt;(US release)&lt;/small&gt;&lt;br&gt;88 minutes&lt;br&gt;&lt;small&gt;(international release)&lt;/small&gt;&lt;br&gt;96 minutes&lt;br&gt;&lt;small&gt;(director's cut)&lt;/small&gt;&lt;ref&gt;[http://www.imdb.com/title/tt0106308/technical?ref_=tt_dt_spec ''Army of Darkness'' Technical Specifications] at the [[IMDb|Internet Movie Database]]. Retrieved October 1, 2016.&lt;/ref&gt;
+| country = United States
+| language = English
+| budget = $11 million&lt;ref name=&quot;the-numbers.com&quot;&gt;{{cite web|url=http://www.the-numbers.com/movie/Army-of-Darkness#tab=summary |title=Army of Darkness (1993) - Financial Information |publisher=The-numbers.com |date= |accessdate=November 3, 2016}}&lt;/ref&gt;
+| gross = $21.5 million&lt;ref name=&quot;the-numbers.com&quot;&gt;{{cite web|url=http://www.the-numbers.com/movie/Army-of-Darkness#tab=summary |title=Army of Darkness (1993) - Financial Information |publisher=The-numbers.com |date= |accessdate=November 3, 2016}}&lt;/ref&gt;
+}}
+'''''Army of Darkness''''' (also known as '''''Bruce Campbell vs. Army of Darkness
