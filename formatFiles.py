@@ -25,6 +25,7 @@ for file in fileNames:
         matchBud = re.search(budgetReg, fread)
         matchGros = re.search(grossReg, fread)
         matchCountry = re.search(countryReg, fread)
+	# Found movie
         if(matchName and matchRun and matchBud and matchGros and matchCountry):
             name = matchName[0].strip()[1:].strip()
             runtime =  matchRun[0].strip()[1:].strip()
